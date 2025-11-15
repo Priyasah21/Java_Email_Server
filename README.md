@@ -154,7 +154,7 @@ document.querySelector('form').addEventListener('submit', async (e) => {
 ## 📬 Contact
 
 **Priya Sah**
-- GitHub: [@priyaSah893](https://github.com/priyaSah893)
+- GitHub: [@priyaSah893](https://github.com/Priyasah21)
 
 ---
 
